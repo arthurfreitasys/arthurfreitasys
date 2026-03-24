@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre na FATEC), com foco em desenvolvimento backend e em busca da primeira oportunidade na área de TI.<br>Sou uma pessoa proativa, curiosa e comprometida com o aprendizado contínuo, sempre em busca de aprimorar minhas habilidades.<br>Tenho conhecimento em linguagem C, além de já ter desenvolvido projetos utilizando HTML e CSS. Também possuo inglês intermediário e experiência com edição de vídeo.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre na FATEC), com foco em desenvolvimento backend e em busca da primeira oportunidade na área de TI.<br>Sou uma pessoa proativa, curiosa e comprometida com o aprendizado contínuo, sempre em busca de aprimorar minhas habilidades.<br>Tenho conhecimento em linguagem C e Java, além de já ter desenvolvido projetos utilizando HTML e CSS. Também possuo inglês intermediário e experiência com edição de vídeo.</p>
 
 ###
 
