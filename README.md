@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <div>
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=dark&hide_border=true)
+  ![GitHub Stats][(https://arthurfreitasys-readmestatus.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=dark&hide_border=true)
 </div>
 
 </div>
