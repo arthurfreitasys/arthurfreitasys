@@ -30,6 +30,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=radical&hide_border=true" />
 </div>
