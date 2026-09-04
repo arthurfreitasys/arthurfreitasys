@@ -31,6 +31,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://arthurfreitasys-readmestatus.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://arthurfreitasys-readmestatus.vercel.app/api/top-langs/?username=arthurfreitasys&layout=compact&theme=radical&hide_border=true" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=radical&hide_border=true" />
 </div>
