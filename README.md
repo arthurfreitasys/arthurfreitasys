@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=dark&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=dark&hide_border=true)
 </div>
 
 </div>
