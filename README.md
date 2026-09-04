@@ -31,5 +31,5 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=radical&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=github_dark&hide_border=true" />
 </div>
