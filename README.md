@@ -1,42 +1,37 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/arthurfreitasys/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="arthur.freitasys@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurfreitasys)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.freitasys@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arthurfreitasys.github.io/portfolio-arthur.dev/)
+
 </div>
 
-###
+# Bem vindo! 👋
 
-<h1 align="center">Bem vindo!</h1>
+## 👨‍💻 Sobre mim
 
-###
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre — FATEC Mogi Mirim)
+- 💻 Foco em desenvolvimento backend, em busca da primeira oportunidade em TI
+- 🌱 Proativo, curioso e comprometido com aprendizado contínuo
+- 🗣️ Inglês intermediário
+- 🎬 Experiência com edição de vídeo
 
-<h3 align="left">👩‍💻  Sobre mim.</h3>
+## 🛠️ Linguagens e ferramentas
 
-###
-
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre na FATEC), com foco em desenvolvimento backend e em busca da primeira oportunidade na área de TI.<br>Sou uma pessoa proativa, curiosa e comprometida com o aprendizado contínuo, sempre em busca de aprimorar minhas habilidades.<br>Tenho conhecimento em linguagem C e Java, além de já ter desenvolvido projetos utilizando HTML e CSS. Também possuo inglês intermediário e experiência com edição de vídeo.</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e ferramentas.</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,git,ps" />
 </div>
 
-###
+## 📌 Projetos em destaque
+
+- **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** — Sistema de gestão de biblioteca com Spring Boot, Spring Data JPA e H2
+- **[colegioSanquim](https://github.com/arthurfreitasys/colegioSanquim)** — Sistema de Gestão Escolar desenvolvido em grupo (ADS - FATEC)
+- **[portfolio-arthur.dev](https://github.com/arthurfreitasys/portfolio-arthur.dev)** — Meu portfólio pessoal
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+</div>
