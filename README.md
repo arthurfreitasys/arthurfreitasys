@@ -24,12 +24,6 @@
 
 ## 📌 Projetos em destaque
 
-- **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** — Sistema de gestão de biblioteca com Spring Boot, Spring Data JPA e H2
-- **[colegioSanquim](https://github.com/arthurfreitasys/colegioSanquim)** — Sistema de Gestão Escolar desenvolvido em grupo (ADS - FATEC)
+- **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** — Sistema de gestão de biblioteca com Spring Boot
+- **[colegioSanquim](https://github.com/arthurfreitasys/colegioSanquim)** — Sistema de Gestão Escolar desenvolvido em grupo
 - **[portfolio-arthur.dev](https://github.com/arthurfreitasys/portfolio-arthur.dev)** — Meu portfólio pessoal
-
-## 📊 GitHub Stats
-
-<div align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=github_dark&hide_border=true" />
-</div>
