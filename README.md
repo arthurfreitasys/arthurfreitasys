@@ -24,6 +24,6 @@
 
 ## 📌 Projetos em destaque
 
-- **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** — Sistema de gestão de biblioteca com Spring Boot
-- **[colegioSanquim](https://github.com/arthurfreitasys/colegioSanquim)** — Sistema de Gestão Escolar desenvolvido em grupo
-- **[portfolio-arthur.dev](https://github.com/arthurfreitasys/portfolio-arthur.dev)** — Meu portfólio pessoal
+- **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** <- Sistema de gestão de biblioteca com Spring Boot
+- **[colegioSanquim](https://github.com/arthurfreitasys/colegioSanquim)** <- Sistema de Gestão Escolar desenvolvido em grupo
+- **[portfolio-arthur.dev](https://github.com/arthurfreitasys/portfolio-arthur.dev)** <- Meu portfólio pessoal
