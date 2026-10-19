@@ -1,6 +1,5 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurfreitasys)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white)](https://linkedin.com/in/arthurfreitasys)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arthurfreitasys.github.io/portfolio-arthur.dev/)
 
@@ -32,4 +31,4 @@
 
   ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthurfreitasys&show_icons=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfreitasys&theme=default" />
