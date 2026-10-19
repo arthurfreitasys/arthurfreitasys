@@ -17,7 +17,7 @@
 ## 🛠️ Linguagens e ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=java,spring,mssql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,git" />
 </div>
 
 ## 📌 Projetos em destaque
