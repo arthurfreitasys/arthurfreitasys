@@ -22,7 +22,7 @@
 
 ## 📌 Projetos em destaque
 
-- **[RadarMMA](https://github.com/arthurfreitasys/gestaoUFC)** <- API REST em Spring Boot pensada pra quem curte UFC
+- **[LutaCerta](https://github.com/arthurfreitasys/gestaoUFC)** <- API REST em Spring Boot pensada pra quem curte UFC
   mas não acompanha de perto: organiza eventos e destaca quais lutas valem a pena assistir
 - **[SistemaBiblioteca](https://github.com/arthurfreitasys/SistemaBiblioteca)** <- Projeto de estudo backend em Spring Boot: modelagem de autores e livros,
    persistência com JPA e banco H2
